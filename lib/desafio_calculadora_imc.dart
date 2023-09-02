@@ -1,4 +1,3 @@
-import 'dart:convert';
 import 'dart:io';
 
 import 'package:desafio_calculadora_imc/pessoa.dart';
